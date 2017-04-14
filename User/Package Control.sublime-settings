@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"ColorPicker",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"EsFormatter",
+		"FileHeader",
+		"Git",
+		"GitGutter",
+		"GitStatusBar",
+		"HTML-CSS-JS Prettify",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"JSX",
+		"LESS",
+		"MarkdownEditing",
+		"One Dark Color Scheme",
+		"Package Control",
+		"React ES6 Snippets",
+		"React Templates",
+		"ReactJS",
+		"Redux Snippets",
+		"Sass",
+		"SassBeautify",
+		"SCSS",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-jsxhint",
+		"Terminal",
+		"Vue Syntax Highlight"
+	]
+}
